@@ -3,7 +3,7 @@
 cd my-app
 npm start
 
-2,functionalities
+2, functionalities
 (1) Add new line
 (2) Cell edit by edit button on each line. Cancel edit. Save edit
 (3) Validation for "age", must be int
