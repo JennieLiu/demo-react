@@ -17,7 +17,7 @@ export default class Application extends Component {
         return (
             <div>
                 <Mytable TableData = {this.state.TableData}
-                         setAppState={this.setAppState.bind(this)}/>
+                         setAppState={this.setAppState}/>
             </div>
         );
     }
